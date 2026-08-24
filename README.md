@@ -1,4 +1,4 @@
-# Histogram Equalization Using OpenCV (Grayscale & Color Images)
+# EXP03-Histogram Equalization Using OpenCV (Grayscale & Color Images)
 # Name : AJAY S
 # Reg.no:212224230010
 
